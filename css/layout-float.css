@@ -12,33 +12,7 @@
 .clearfix:after {
 	clear: both;
 }
-/*section	{
-	width: 100%;
-	max-width: 960px;
-	margin: 0 auto;
-}
-header {
-	line-height: 44px;
-}
-aside {
-	float: left;
-	width: 22%;
-}
-article {
-	float: right;
-	width: 76%;
-}
-footer {
-	line-height: 60px;
-}
 
-@media all and (max-width: 800px) {
-	aside,
-	article {
-		float: none;
-	}
-}
-*/
 /* SCSS VERSION 
 
 .sh-clearfix {
@@ -55,3 +29,4 @@ footer {
 }
 
 */
+
