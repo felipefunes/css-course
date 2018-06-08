@@ -1,0 +1,30 @@
+/*section	{
+  display: grid;
+  grid-template-columns: 22% 76%;
+  grid-column-gap: 2%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+header {
+	line-height: 44px;
+}
+aside {
+	grid-column: 1;
+  grid-row: 1;
+}
+article {
+	grid-column: 2;
+}
+footer {
+	line-height: 60px;
+}
+
+@media all and (max-width: 800px) {
+	section {
+		grid-template-columns: 100%;
+		grid-column-gap: 0;
+	}
+	article {
+		grid-column: auto;
+	}
+}*/

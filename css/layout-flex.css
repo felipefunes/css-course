@@ -1,0 +1,35 @@
+/*section	{
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: stretch;
+  justify-content: space-between;
+}
+header {
+	line-height: 44px;
+}
+aside {
+	width: 22%;
+}
+article {
+  width: 78%;
+  margin-left: 2%;
+}
+footer {
+	line-height: 60px;
+}
+
+@media all and (max-width: 800px) {
+	article {
+		margin-left: 0
+	}
+	aside,
+	article {
+  	width: 100%;
+	}
+	section {
+		flex-direction: column;
+	}
+}*/

@@ -1,0 +1,38 @@
+html {
+  -webkit-font-smoothing: antialiased;
+     -moz-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+}
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-font-smoothing: inherit;
+     -moz-font-smoothing: inherit;
+  -webkit-tap-highlight-color: transparent;
+}
+body {
+  font-family: Arial, sans-serif;
+  color: #303030;
+  background: white;
+  -webkit-overflow-scrolling: touch;
+}
+img {
+	max-width: 100%;
+	vertical-align: middle;
+}
+header {
+  background-color: #4A90E2;
+}
+aside {
+  background-color: #CADEF6;
+}
+article {
+  background-color: #E1F2D0;
+}
+footer {
+  color: white;
+  background-color: #303030;
+}
